@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>272C076A-BEA5-44E8-A57E-C83DC6B949B1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>272C076A-BEA5-44E8-A57E-C83DC6B949B1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Closure</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Closure (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Closure (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>679994058.10631096</real>
+			<key>timeStoppedRecording</key>
+			<real>679994058.51052594</real>
+			<key>title</key>
+			<string>Build Closure (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>272C076A-BEA5-44E8-A57E-C83DC6B949B1</string>
+		</dict>
+		<key>6E4785AC-9E8B-4B68-9FA2-03A2B0646D4F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6E4785AC-9E8B-4B68-9FA2-03A2B0646D4F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Closure</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Closure (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Closure (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>679922796.10642803</real>
+			<key>timeStoppedRecording</key>
+			<real>679922796.31161904</real>
+			<key>title</key>
+			<string>Build Closure (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>6E4785AC-9E8B-4B68-9FA2-03A2B0646D4F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

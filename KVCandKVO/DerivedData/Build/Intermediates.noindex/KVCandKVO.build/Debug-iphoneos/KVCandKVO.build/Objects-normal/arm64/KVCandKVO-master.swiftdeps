@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "2c895cf7258331bd78fcb26112e3e3b47c59692778e8fa36b0244e3429dcf56d"
+build_start_time: [1656097425, 582687854]
+build_end_time: [1656097425, 816094875]
+inputs:
+  "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/KVCandKVO/AppDelegate.swift": [1656097286, 211183309]
+  "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/KVCandKVO/SceneDelegate.swift": [1656097286, 218265533]
+  "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/KVCandKVO/ViewController.swift": [1656097425, 337486505]

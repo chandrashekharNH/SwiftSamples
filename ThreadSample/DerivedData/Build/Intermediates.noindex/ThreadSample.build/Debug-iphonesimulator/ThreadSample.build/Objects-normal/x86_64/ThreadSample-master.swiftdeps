@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1656158223, 801967144]
+build_end_time: [1656158224, 138900041]
+inputs:
+  "/Users/charvi......./Desktop/Interview-Preferences/Samples/ThreadSample/ThreadSample/AppDelegate.swift": [1656157227, 739893913]
+  "/Users/charvi......./Desktop/Interview-Preferences/Samples/ThreadSample/ThreadSample/SceneDelegate.swift": [1656157227, 747807979]
+  "/Users/charvi......./Desktop/Interview-Preferences/Samples/ThreadSample/ThreadSample/ViewController.swift": [1656158223, 600916862]

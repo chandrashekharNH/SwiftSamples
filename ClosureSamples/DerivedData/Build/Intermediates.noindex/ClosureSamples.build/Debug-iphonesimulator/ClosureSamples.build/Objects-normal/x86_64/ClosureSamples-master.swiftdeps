@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1657004645, 495931148]
+build_end_time: [1657004651, 543435096]
+inputs:
+  "/Users/charvi......./Desktop/Samples/Swift/ClosureSamples/ClosureSamples/AppDelegate.swift": [1657002282, 611974954]
+  "/Users/charvi......./Desktop/Samples/Swift/ClosureSamples/ClosureSamples/CSApiRequest.swift": [1657004525, 834953546]
+  "/Users/charvi......./Desktop/Samples/Swift/ClosureSamples/ClosureSamples/SceneDelegate.swift": [1657002282, 619173049]
+  "/Users/charvi......./Desktop/Samples/Swift/ClosureSamples/ClosureSamples/ViewController.swift": [1657004624, 595307350]

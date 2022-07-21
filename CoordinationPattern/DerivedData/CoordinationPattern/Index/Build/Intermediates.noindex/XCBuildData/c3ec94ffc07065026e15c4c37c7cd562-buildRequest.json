@@ -1,0 +1,62 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "893b3522d2f2de55c8346dc2b7b9f21d50d98d16b604439c944e67f49474b3af"
+    }
+  ],
+  "containerPath" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/CoordinationPattern/CoordinationPattern.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/CoordinationPattern/DerivedData/CoordinationPattern/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/CoordinationPattern/DerivedData/CoordinationPattern/Index/Build/Products",
+      "derivedDataPath" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/CoordinationPattern/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/CoordinationPattern/DerivedData/CoordinationPattern/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/CoordinationPattern/DerivedData/CoordinationPattern/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/CoordinationPattern/DerivedData/CoordinationPattern/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/CoordinationPattern/DerivedData/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

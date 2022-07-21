@@ -1,0 +1,62 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "731e7e14d9d1ef744b5b15677e4bfffb5ced8562fcf93d0d048f21e23701f452"
+    }
+  ],
+  "containerPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/KVCandKVO.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.4",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/DerivedData/KVCandKVO/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/DerivedData/KVCandKVO/Index/Build/Products",
+      "derivedDataPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/DerivedData/KVCandKVO/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/DerivedData/KVCandKVO/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/DerivedData/KVCandKVO/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/DerivedData/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

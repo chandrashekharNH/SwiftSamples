@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "2c895cf7258331bd78fcb26112e3e3b47c59692778e8fa36b0244e3429dcf56d"
+build_start_time: [1657826381, 270069122]
+build_end_time: [1657826381, 606707096]
+inputs:
+  "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/AccessSpecifier/AccessSpecifier/AppDelegate.swift": [1657825740, 191614627]
+  "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/AccessSpecifier/AccessSpecifier/SceneDelegate.swift": [1657825740, 199377059]
+  "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/AccessSpecifier/AccessSpecifier/VC1.swift": [1657826381, 5259513]
+  "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/AccessSpecifier/AccessSpecifier/ViewController.swift": !private [1657826381, 28720617]

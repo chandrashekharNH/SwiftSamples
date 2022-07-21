@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>9CDE53F7-22CF-4303-9225-EE398A209864</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9CDE53F7-22CF-4303-9225-EE398A209864.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BubbleSort</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BubbleSort (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build BubbleSort (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>679922465.47107601</real>
+			<key>timeStoppedRecording</key>
+			<real>679922465.57146299</real>
+			<key>title</key>
+			<string>Build BubbleSort (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>9CDE53F7-22CF-4303-9225-EE398A209864</string>
+		</dict>
+		<key>B221F1AE-82F8-4594-8274-F9E6AAADA0E6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B221F1AE-82F8-4594-8274-F9E6AAADA0E6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BubbleSort</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BubbleSort (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build BubbleSort (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>679836585.67973197</real>
+			<key>timeStoppedRecording</key>
+			<real>679836585.816347</real>
+			<key>title</key>
+			<string>Build BubbleSort (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>B221F1AE-82F8-4594-8274-F9E6AAADA0E6</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

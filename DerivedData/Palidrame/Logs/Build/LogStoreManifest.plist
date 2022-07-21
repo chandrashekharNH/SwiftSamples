@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>A735531A-DCA8-46D3-8C1E-76CE30A645CD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A735531A-DCA8-46D3-8C1E-76CE30A645CD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Palidrame</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Palidrame (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Palidrame (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>679922338.82720304</real>
+			<key>timeStoppedRecording</key>
+			<real>679922338.97933805</real>
+			<key>title</key>
+			<string>Build Palidrame (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>A735531A-DCA8-46D3-8C1E-76CE30A645CD</string>
+		</dict>
+		<key>BF639A52-4DE0-4623-A8CE-16B084935196</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BF639A52-4DE0-4623-A8CE-16B084935196.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Palidrame</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Palidrame (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Palidrame (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>679836606.56378806</real>
+			<key>timeStoppedRecording</key>
+			<real>679836606.74040794</real>
+			<key>title</key>
+			<string>Build Palidrame (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>BF639A52-4DE0-4623-A8CE-16B084935196</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

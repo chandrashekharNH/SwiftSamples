@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>00433672-D6C8-48BB-8D15-D2019B858EA4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>00433672-D6C8-48BB-8D15-D2019B858EA4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoordinationPattern project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoordinationPattern</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CoordinationPattern</string>
+			<key>timeStartedRecording</key>
+			<real>679590658.45663595</real>
+			<key>timeStoppedRecording</key>
+			<real>679590666.73148096</real>
+			<key>title</key>
+			<string>Run CoordinationPattern</string>
+			<key>uniqueIdentifier</key>
+			<string>00433672-D6C8-48BB-8D15-D2019B858EA4</string>
+		</dict>
+		<key>0150A1D0-1456-49BE-A65D-9696456180CB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0150A1D0-1456-49BE-A65D-9696456180CB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoordinationPattern project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoordinationPattern</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CoordinationPattern</string>
+			<key>timeStartedRecording</key>
+			<real>679590678.99862099</real>
+			<key>timeStoppedRecording</key>
+			<real>679590770.35980904</real>
+			<key>title</key>
+			<string>Run CoordinationPattern</string>
+			<key>uniqueIdentifier</key>
+			<string>0150A1D0-1456-49BE-A65D-9696456180CB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

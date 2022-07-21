@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0B62E639-03A4-4ECA-A356-77010624EDDC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0B62E639-03A4-4ECA-A356-77010624EDDC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Test</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Test (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Test (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>679729479.58514905</real>
+			<key>timeStoppedRecording</key>
+			<real>679729479.73240101</real>
+			<key>title</key>
+			<string>Build Test (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>0B62E639-03A4-4ECA-A356-77010624EDDC</string>
+		</dict>
+		<key>706A1B75-B318-474C-8D6A-7E9CC3C09E68</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>706A1B75-B318-474C-8D6A-7E9CC3C09E68.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Test</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Test (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Test (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>679729488.89372504</real>
+			<key>timeStoppedRecording</key>
+			<real>679729488.98391497</real>
+			<key>title</key>
+			<string>Build Test (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>706A1B75-B318-474C-8D6A-7E9CC3C09E68</string>
+		</dict>
+		<key>726ABBE6-9689-4513-9BCE-3DB0EEEBEFF3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>726ABBE6-9689-4513-9BCE-3DB0EEEBEFF3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Test</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Test (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Test (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>679729711.29345095</real>
+			<key>timeStoppedRecording</key>
+			<real>679729711.37779295</real>
+			<key>title</key>
+			<string>Build Test (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>726ABBE6-9689-4513-9BCE-3DB0EEEBEFF3</string>
+		</dict>
+		<key>9A6761C5-C8DA-4164-A2C6-02FAD95BA14C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9A6761C5-C8DA-4164-A2C6-02FAD95BA14C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Test</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Test (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Test (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>679729358.43908298</real>
+			<key>timeStoppedRecording</key>
+			<real>679729358.509022</real>
+			<key>title</key>
+			<string>Build Test (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>9A6761C5-C8DA-4164-A2C6-02FAD95BA14C</string>
+		</dict>
+		<key>D8C6D11B-DD72-4E39-B830-41D788CAC7A4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D8C6D11B-DD72-4E39-B830-41D788CAC7A4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Test</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Test (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Test (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>679729964.44003296</real>
+			<key>timeStoppedRecording</key>
+			<real>679729964.51184297</real>
+			<key>title</key>
+			<string>Build Test (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>D8C6D11B-DD72-4E39-B830-41D788CAC7A4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

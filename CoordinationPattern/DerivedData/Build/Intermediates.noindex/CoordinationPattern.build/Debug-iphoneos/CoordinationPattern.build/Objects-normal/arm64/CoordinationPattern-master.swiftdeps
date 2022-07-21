@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "2c895cf7258331bd78fcb26112e3e3b47c59692778e8fa36b0244e3429dcf56d"
+build_start_time: [1657897847, 303524971]
+build_end_time: [1657897855, 597152948]
+inputs:
+  "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/CoordinationPattern/CoordinationPattern/AppDelegate.swift": [1657897836, 746653556]
+  "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/CoordinationPattern/CoordinationPattern/SceneDelegate.swift": [1657897836, 751858711]
+  "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/CoordinationPattern/CoordinationPattern/ViewController.swift": [1657897836, 754177570]

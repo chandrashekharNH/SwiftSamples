@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "b64960f24897429d92983b0a0f4dd10ae42f6be79dee924a180f3ce4bce322b3"
+    }
+  ],
+  "containerPath" : "/Users/charvi......./Desktop/Samples/Swift/ClosureSamples/ClosureSamples.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/charvi......./Desktop/Samples/Swift/ClosureSamples/DerivedData/ClosureSamples/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/charvi......./Desktop/Samples/Swift/ClosureSamples/DerivedData/ClosureSamples/Index/Build/Products",
+      "derivedDataPath" : "/Users/charvi......./Desktop/Samples/Swift/ClosureSamples/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/charvi......./Desktop/Samples/Swift/ClosureSamples/DerivedData/ClosureSamples/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/charvi......./Desktop/Samples/Swift/ClosureSamples/DerivedData/ClosureSamples/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/charvi......./Desktop/Samples/Swift/ClosureSamples/DerivedData/ClosureSamples/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/charvi......./Desktop/Samples/Swift/ClosureSamples/DerivedData/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

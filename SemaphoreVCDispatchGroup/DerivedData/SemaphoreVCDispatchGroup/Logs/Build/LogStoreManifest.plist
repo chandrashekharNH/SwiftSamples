@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>07CADE62-7233-4A0D-A84C-0CF54B6DED6A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>07CADE62-7233-4A0D-A84C-0CF54B6DED6A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SemaphoreVCDispatchGroup project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SemaphoreVCDispatchGroup</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>timeStartedRecording</key>
+			<real>679001368.95566499</real>
+			<key>timeStoppedRecording</key>
+			<real>679001369.10326004</real>
+			<key>title</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>uniqueIdentifier</key>
+			<string>07CADE62-7233-4A0D-A84C-0CF54B6DED6A</string>
+		</dict>
+		<key>57BF645D-39BF-486E-AB9C-1B984B7057DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57BF645D-39BF-486E-AB9C-1B984B7057DF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SemaphoreVCDispatchGroup project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SemaphoreVCDispatchGroup</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>timeStartedRecording</key>
+			<real>679001182.64421701</real>
+			<key>timeStoppedRecording</key>
+			<real>679001189.11423099</real>
+			<key>title</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>uniqueIdentifier</key>
+			<string>57BF645D-39BF-486E-AB9C-1B984B7057DF</string>
+		</dict>
+		<key>5F5E80E8-0A9B-4BBD-A18E-B2EFF94C7B93</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5F5E80E8-0A9B-4BBD-A18E-B2EFF94C7B93.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SemaphoreVCDispatchGroup project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SemaphoreVCDispatchGroup</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>timeStartedRecording</key>
+			<real>677680011.94349396</real>
+			<key>timeStoppedRecording</key>
+			<real>677680012.72287703</real>
+			<key>title</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>uniqueIdentifier</key>
+			<string>5F5E80E8-0A9B-4BBD-A18E-B2EFF94C7B93</string>
+		</dict>
+		<key>75D8C9FD-F0CD-4D02-BDF3-0660D64690A8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75D8C9FD-F0CD-4D02-BDF3-0660D64690A8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SemaphoreVCDispatchGroup project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SemaphoreVCDispatchGroup</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>timeStartedRecording</key>
+			<real>679001341.17862904</real>
+			<key>timeStoppedRecording</key>
+			<real>679001348.14402902</real>
+			<key>title</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>uniqueIdentifier</key>
+			<string>75D8C9FD-F0CD-4D02-BDF3-0660D64690A8</string>
+		</dict>
+		<key>7FFBFF23-985E-489C-BD27-8C44E0DD7983</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7FFBFF23-985E-489C-BD27-8C44E0DD7983.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SemaphoreVCDispatchGroup project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SemaphoreVCDispatchGroup</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>timeStartedRecording</key>
+			<real>679001852.00557399</real>
+			<key>timeStoppedRecording</key>
+			<real>679001852.57762504</real>
+			<key>title</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>uniqueIdentifier</key>
+			<string>7FFBFF23-985E-489C-BD27-8C44E0DD7983</string>
+		</dict>
+		<key>AB68F8BF-4DCE-48A2-A464-52CA4FDBBBA0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AB68F8BF-4DCE-48A2-A464-52CA4FDBBBA0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SemaphoreVCDispatchGroup project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SemaphoreVCDispatchGroup</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>timeStartedRecording</key>
+			<real>679001323.99722803</real>
+			<key>timeStoppedRecording</key>
+			<real>679001324.81016695</real>
+			<key>title</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>uniqueIdentifier</key>
+			<string>AB68F8BF-4DCE-48A2-A464-52CA4FDBBBA0</string>
+		</dict>
+		<key>D300A8FF-07DF-4434-A2DF-1BABFCEB53B4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D300A8FF-07DF-4434-A2DF-1BABFCEB53B4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SemaphoreVCDispatchGroup project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SemaphoreVCDispatchGroup</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>timeStartedRecording</key>
+			<real>679001242.69941401</real>
+			<key>timeStoppedRecording</key>
+			<real>679001250.01412404</real>
+			<key>title</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>uniqueIdentifier</key>
+			<string>D300A8FF-07DF-4434-A2DF-1BABFCEB53B4</string>
+		</dict>
+		<key>D8C523D6-3821-4E13-9723-5D0935EA3227</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D8C523D6-3821-4E13-9723-5D0935EA3227.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SemaphoreVCDispatchGroup project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SemaphoreVCDispatchGroup</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>timeStartedRecording</key>
+			<real>679001891.63236594</real>
+			<key>timeStoppedRecording</key>
+			<real>679001892.05429602</real>
+			<key>title</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>uniqueIdentifier</key>
+			<string>D8C523D6-3821-4E13-9723-5D0935EA3227</string>
+		</dict>
+		<key>E31668ED-1DD8-4F6F-B925-4D2E8205324A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E31668ED-1DD8-4F6F-B925-4D2E8205324A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SemaphoreVCDispatchGroup project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SemaphoreVCDispatchGroup</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>timeStartedRecording</key>
+			<real>679001950.17050004</real>
+			<key>timeStoppedRecording</key>
+			<real>679001951.15423501</real>
+			<key>title</key>
+			<string>Build SemaphoreVCDispatchGroup</string>
+			<key>uniqueIdentifier</key>
+			<string>E31668ED-1DD8-4F6F-B925-4D2E8205324A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

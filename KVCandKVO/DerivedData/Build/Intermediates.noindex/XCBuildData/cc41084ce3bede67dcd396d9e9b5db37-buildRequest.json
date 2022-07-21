@@ -1,0 +1,64 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "731e7e14d9d1ef744b5b15677e4bfffb5ced8562fcf93d0d048f21e23701f452"
+    }
+  ],
+  "containerPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/KVCandKVO.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/DerivedData/KVCandKVO/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/DerivedData/KVCandKVO/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/KVCandKVO/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.4",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "58609E26-DDE8-451D-A064-ECD59BD7689C",
+          "TARGET_DEVICE_MODEL" : "iPhone12,1",
+          "TARGET_DEVICE_OS_VERSION" : "15.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

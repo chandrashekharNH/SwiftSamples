@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+SemaphoreVCDispatchGroup in SemaphoreVCDispatchGroup, no dependencies
+SemaphoreVCDispatchGroup in SemaphoreVCDispatchGroup, no dependencies

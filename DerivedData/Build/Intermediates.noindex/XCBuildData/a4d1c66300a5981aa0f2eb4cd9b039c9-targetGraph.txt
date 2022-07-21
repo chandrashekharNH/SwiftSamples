@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+NScopy_Sources in NScopy_Sources, no dependencies

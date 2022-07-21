@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>CF9C5E81-A7DC-444C-9D7A-D66464A63968</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF9C5E81-A7DC-444C-9D7A-D66464A63968.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SortAlgorithma</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SortAlgorithma (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build SortAlgorithma (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>679175901.50415897</real>
+			<key>timeStoppedRecording</key>
+			<real>679175901.65098405</real>
+			<key>title</key>
+			<string>Build SortAlgorithma (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>CF9C5E81-A7DC-444C-9D7A-D66464A63968</string>
+		</dict>
+		<key>D46E7CA2-4E97-46A9-90E7-0FA5470D40A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D46E7CA2-4E97-46A9-90E7-0FA5470D40A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SortAlgorithma</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SortAlgorithma (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build SortAlgorithma (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>679175707.415591</real>
+			<key>timeStoppedRecording</key>
+			<real>679175707.484972</real>
+			<key>title</key>
+			<string>Build SortAlgorithma (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>D46E7CA2-4E97-46A9-90E7-0FA5470D40A2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

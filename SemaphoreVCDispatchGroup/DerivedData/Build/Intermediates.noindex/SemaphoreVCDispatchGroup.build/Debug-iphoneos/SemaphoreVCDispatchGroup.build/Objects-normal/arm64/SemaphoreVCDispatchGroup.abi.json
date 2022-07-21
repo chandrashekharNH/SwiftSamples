@@ -1,0 +1,1676 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "SemaphoreVCDispatchGroup",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "ViewController",
+      "printedName": "ViewController",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "viewDidLoad",
+          "printedName": "viewDidLoad()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)ViewController(im)viewDidLoad",
+          "mangledName": "$s24SemaphoreVCDispatchGroup14ViewControllerC11viewDidLoadyyF",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "viewDidLoad",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "dispatchGroupSamples",
+          "printedName": "dispatchGroupSamples()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:24SemaphoreVCDispatchGroup14ViewControllerC08dispatchC7SamplesyyF",
+          "mangledName": "$s24SemaphoreVCDispatchGroup14ViewControllerC08dispatchC7SamplesyyF",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "dispatchSemaphoreSamples",
+          "printedName": "dispatchSemaphoreSamples()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:24SemaphoreVCDispatchGroup14ViewControllerC08dispatchA7SamplesyyF",
+          "mangledName": "$s24SemaphoreVCDispatchGroup14ViewControllerC08dispatchA7SamplesyyF",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "fetchImage",
+          "printedName": "fetchImage(completion:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(UIKit.UIImage?, Swift.Error?) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Tuple",
+                  "printedName": "(UIKit.UIImage?, Swift.Error?)",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Optional",
+                      "printedName": "UIKit.UIImage?",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "UIImage",
+                          "printedName": "UIKit.UIImage",
+                          "usr": "c:objc(cs)UIImage"
+                        }
+                      ],
+                      "usr": "s:Sq"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Optional",
+                      "printedName": "Swift.Error?",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Error",
+                          "printedName": "Swift.Error",
+                          "usr": "s:s5ErrorP"
+                        }
+                      ],
+                      "usr": "s:Sq"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:24SemaphoreVCDispatchGroup14ViewControllerC10fetchImage10completionyySo7UIImageCSg_s5Error_pSgtc_tF",
+          "mangledName": "$s24SemaphoreVCDispatchGroup14ViewControllerC10fetchImage10completionyySo7UIImageCSg_s5Error_pSgtc_tF",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(nibName:bundle:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ViewController",
+              "printedName": "SemaphoreVCDispatchGroup.ViewController",
+              "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)ViewController"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Foundation.Bundle?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bundle",
+                  "printedName": "Foundation.Bundle",
+                  "usr": "c:objc(cs)NSBundle"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)ViewController(im)initWithNibName:bundle:",
+          "mangledName": "$s24SemaphoreVCDispatchGroup14ViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithNibName:bundle:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(coder:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "SemaphoreVCDispatchGroup.ViewController?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ViewController",
+                  "printedName": "SemaphoreVCDispatchGroup.ViewController",
+                  "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)ViewController"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "NSCoder",
+              "printedName": "Foundation.NSCoder",
+              "usr": "c:objc(cs)NSCoder"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)ViewController(im)initWithCoder:",
+          "mangledName": "$s24SemaphoreVCDispatchGroup14ViewControllerC5coderACSgSo7NSCoderC_tcfc",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithCoder:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Required"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)ViewController",
+      "mangledName": "$s24SemaphoreVCDispatchGroup14ViewControllerC",
+      "moduleName": "SemaphoreVCDispatchGroup",
+      "isOpen": true,
+      "declAttributes": [
+        "Custom",
+        "RawDocComment",
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)UIViewController",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "UIKit.UIViewController",
+        "UIKit.UIResponder",
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "CS",
+      "printedName": "CS",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "date",
+          "printedName": "date",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:24SemaphoreVCDispatchGroup2CSV4dateSivp",
+          "mangledName": "$s24SemaphoreVCDispatchGroup2CSV4dateSivp",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:24SemaphoreVCDispatchGroup2CSV4dateSivg",
+              "mangledName": "$s24SemaphoreVCDispatchGroup2CSV4dateSivg",
+              "moduleName": "SemaphoreVCDispatchGroup",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "milliseconds_since_epoch",
+          "printedName": "milliseconds_since_epoch",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:24SemaphoreVCDispatchGroup2CSV24milliseconds_since_epochSivp",
+          "mangledName": "$s24SemaphoreVCDispatchGroup2CSV24milliseconds_since_epochSivp",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:24SemaphoreVCDispatchGroup2CSV24milliseconds_since_epochSivg",
+              "mangledName": "$s24SemaphoreVCDispatchGroup2CSV24milliseconds_since_epochSivg",
+              "moduleName": "SemaphoreVCDispatchGroup",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "time",
+          "printedName": "time",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:24SemaphoreVCDispatchGroup2CSV4timeSivp",
+          "mangledName": "$s24SemaphoreVCDispatchGroup2CSV4timeSivp",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:24SemaphoreVCDispatchGroup2CSV4timeSivg",
+              "mangledName": "$s24SemaphoreVCDispatchGroup2CSV4timeSivg",
+              "moduleName": "SemaphoreVCDispatchGroup",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "TypeDecl",
+          "name": "CodingKeys",
+          "printedName": "CodingKeys",
+          "children": [
+            {
+              "kind": "Var",
+              "name": "date",
+              "printedName": "date",
+              "children": [
+                {
+                  "kind": "TypeFunc",
+                  "name": "Function",
+                  "printedName": "(SemaphoreVCDispatchGroup.CS.CodingKeys.Type) -> SemaphoreVCDispatchGroup.CS.CodingKeys",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "CodingKeys",
+                      "printedName": "SemaphoreVCDispatchGroup.CS.CodingKeys",
+                      "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Metatype",
+                      "printedName": "SemaphoreVCDispatchGroup.CS.CodingKeys.Type",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "CodingKeys",
+                          "printedName": "SemaphoreVCDispatchGroup.CS.CodingKeys",
+                          "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "declKind": "EnumElement",
+              "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO4dateyA2EmF",
+              "mangledName": "$s24SemaphoreVCDispatchGroup2CSV10CodingKeysO4dateyA2EmF",
+              "moduleName": "SemaphoreVCDispatchGroup",
+              "fixedbinaryorder": 0
+            },
+            {
+              "kind": "Var",
+              "name": "milliseconds_since_epoch",
+              "printedName": "milliseconds_since_epoch",
+              "children": [
+                {
+                  "kind": "TypeFunc",
+                  "name": "Function",
+                  "printedName": "(SemaphoreVCDispatchGroup.CS.CodingKeys.Type) -> SemaphoreVCDispatchGroup.CS.CodingKeys",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "CodingKeys",
+                      "printedName": "SemaphoreVCDispatchGroup.CS.CodingKeys",
+                      "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Metatype",
+                      "printedName": "SemaphoreVCDispatchGroup.CS.CodingKeys.Type",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "CodingKeys",
+                          "printedName": "SemaphoreVCDispatchGroup.CS.CodingKeys",
+                          "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "declKind": "EnumElement",
+              "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO24milliseconds_since_epochyA2EmF",
+              "mangledName": "$s24SemaphoreVCDispatchGroup2CSV10CodingKeysO24milliseconds_since_epochyA2EmF",
+              "moduleName": "SemaphoreVCDispatchGroup",
+              "fixedbinaryorder": 1
+            },
+            {
+              "kind": "Var",
+              "name": "time",
+              "printedName": "time",
+              "children": [
+                {
+                  "kind": "TypeFunc",
+                  "name": "Function",
+                  "printedName": "(SemaphoreVCDispatchGroup.CS.CodingKeys.Type) -> SemaphoreVCDispatchGroup.CS.CodingKeys",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "CodingKeys",
+                      "printedName": "SemaphoreVCDispatchGroup.CS.CodingKeys",
+                      "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Metatype",
+                      "printedName": "SemaphoreVCDispatchGroup.CS.CodingKeys.Type",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "CodingKeys",
+                          "printedName": "SemaphoreVCDispatchGroup.CS.CodingKeys",
+                          "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "declKind": "EnumElement",
+              "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO4timeyA2EmF",
+              "mangledName": "$s24SemaphoreVCDispatchGroup2CSV10CodingKeysO4timeyA2EmF",
+              "moduleName": "SemaphoreVCDispatchGroup",
+              "fixedbinaryorder": 2
+            },
+            {
+              "kind": "Constructor",
+              "name": "init",
+              "printedName": "init(rawValue:)",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "SemaphoreVCDispatchGroup.CS.CodingKeys?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "CodingKeys",
+                      "printedName": "SemaphoreVCDispatchGroup.CS.CodingKeys",
+                      "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Constructor",
+              "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO8rawValueAESgSS_tcfc",
+              "mangledName": "$s24SemaphoreVCDispatchGroup2CSV10CodingKeysO8rawValueAESgSS_tcfc",
+              "moduleName": "SemaphoreVCDispatchGroup",
+              "implicit": true,
+              "init_kind": "Designated"
+            },
+            {
+              "kind": "Var",
+              "name": "rawValue",
+              "printedName": "rawValue",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO8rawValueSSvp",
+              "mangledName": "$s24SemaphoreVCDispatchGroup2CSV10CodingKeysO8rawValueSSvp",
+              "moduleName": "SemaphoreVCDispatchGroup",
+              "implicit": true,
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO8rawValueSSvg",
+                  "mangledName": "$s24SemaphoreVCDispatchGroup2CSV10CodingKeysO8rawValueSSvg",
+                  "moduleName": "SemaphoreVCDispatchGroup",
+                  "implicit": true,
+                  "accessorKind": "get"
+                }
+              ]
+            },
+            {
+              "kind": "Var",
+              "name": "stringValue",
+              "printedName": "stringValue",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO11stringValueSSvp",
+              "mangledName": "$s24SemaphoreVCDispatchGroup2CSV10CodingKeysO11stringValueSSvp",
+              "moduleName": "SemaphoreVCDispatchGroup",
+              "implicit": true,
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO11stringValueSSvg",
+                  "mangledName": "$s24SemaphoreVCDispatchGroup2CSV10CodingKeysO11stringValueSSvg",
+                  "moduleName": "SemaphoreVCDispatchGroup",
+                  "implicit": true,
+                  "accessorKind": "get"
+                }
+              ]
+            },
+            {
+              "kind": "Constructor",
+              "name": "init",
+              "printedName": "init(stringValue:)",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "SemaphoreVCDispatchGroup.CS.CodingKeys?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "CodingKeys",
+                      "printedName": "SemaphoreVCDispatchGroup.CS.CodingKeys",
+                      "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Constructor",
+              "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO11stringValueAESgSS_tcfc",
+              "mangledName": "$s24SemaphoreVCDispatchGroup2CSV10CodingKeysO11stringValueAESgSS_tcfc",
+              "moduleName": "SemaphoreVCDispatchGroup",
+              "implicit": true,
+              "init_kind": "Designated"
+            },
+            {
+              "kind": "Var",
+              "name": "intValue",
+              "printedName": "intValue",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Swift.Int?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Int",
+                      "printedName": "Swift.Int",
+                      "usr": "s:Si"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO8intValueSiSgvp",
+              "mangledName": "$s24SemaphoreVCDispatchGroup2CSV10CodingKeysO8intValueSiSgvp",
+              "moduleName": "SemaphoreVCDispatchGroup",
+              "implicit": true,
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Optional",
+                      "printedName": "Swift.Int?",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Int",
+                          "printedName": "Swift.Int",
+                          "usr": "s:Si"
+                        }
+                      ],
+                      "usr": "s:Sq"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO8intValueSiSgvg",
+                  "mangledName": "$s24SemaphoreVCDispatchGroup2CSV10CodingKeysO8intValueSiSgvg",
+                  "moduleName": "SemaphoreVCDispatchGroup",
+                  "implicit": true,
+                  "accessorKind": "get"
+                }
+              ]
+            },
+            {
+              "kind": "Constructor",
+              "name": "init",
+              "printedName": "init(intValue:)",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "SemaphoreVCDispatchGroup.CS.CodingKeys?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "CodingKeys",
+                      "printedName": "SemaphoreVCDispatchGroup.CS.CodingKeys",
+                      "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Constructor",
+              "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO8intValueAESgSi_tcfc",
+              "mangledName": "$s24SemaphoreVCDispatchGroup2CSV10CodingKeysO8intValueAESgSi_tcfc",
+              "moduleName": "SemaphoreVCDispatchGroup",
+              "implicit": true,
+              "init_kind": "Designated"
+            }
+          ],
+          "declKind": "Enum",
+          "usr": "s:24SemaphoreVCDispatchGroup2CSV10CodingKeysO",
+          "mangledName": "$s24SemaphoreVCDispatchGroup2CSV10CodingKeysO",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "enumRawTypeName": "String",
+          "isEnumExhaustive": true,
+          "conformances": [
+            {
+              "kind": "Conformance",
+              "name": "Equatable",
+              "printedName": "Equatable",
+              "usr": "s:SQ",
+              "mangledName": "$sSQ"
+            },
+            {
+              "kind": "Conformance",
+              "name": "Hashable",
+              "printedName": "Hashable",
+              "usr": "s:SH",
+              "mangledName": "$sSH"
+            },
+            {
+              "kind": "Conformance",
+              "name": "RawRepresentable",
+              "printedName": "RawRepresentable",
+              "children": [
+                {
+                  "kind": "TypeWitness",
+                  "name": "RawValue",
+                  "printedName": "RawValue",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ]
+                }
+              ],
+              "usr": "s:SY",
+              "mangledName": "$sSY"
+            },
+            {
+              "kind": "Conformance",
+              "name": "CodingKey",
+              "printedName": "CodingKey",
+              "usr": "s:s9CodingKeyP",
+              "mangledName": "$ss9CodingKeyP"
+            },
+            {
+              "kind": "Conformance",
+              "name": "CustomDebugStringConvertible",
+              "printedName": "CustomDebugStringConvertible",
+              "usr": "s:s28CustomDebugStringConvertibleP",
+              "mangledName": "$ss28CustomDebugStringConvertibleP"
+            },
+            {
+              "kind": "Conformance",
+              "name": "CustomStringConvertible",
+              "printedName": "CustomStringConvertible",
+              "usr": "s:s23CustomStringConvertibleP",
+              "mangledName": "$ss23CustomStringConvertibleP"
+            },
+            {
+              "kind": "Conformance",
+              "name": "Sendable",
+              "printedName": "Sendable",
+              "usr": "s:s8SendableP",
+              "mangledName": "$ss8SendableP"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(date:milliseconds_since_epoch:time:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "CS",
+              "printedName": "SemaphoreVCDispatchGroup.CS",
+              "usr": "s:24SemaphoreVCDispatchGroup2CSV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:24SemaphoreVCDispatchGroup2CSV4date24milliseconds_since_epoch4timeACSi_S2itcfc",
+          "mangledName": "$s24SemaphoreVCDispatchGroup2CSV4date24milliseconds_since_epoch4timeACSi_S2itcfc",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "implicit": true,
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(from:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "CS",
+              "printedName": "SemaphoreVCDispatchGroup.CS",
+              "usr": "s:24SemaphoreVCDispatchGroup2CSV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Decoder",
+              "printedName": "Swift.Decoder",
+              "usr": "s:s7DecoderP"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:24SemaphoreVCDispatchGroup2CSV4fromACs7Decoder_p_tKcfc",
+          "mangledName": "$s24SemaphoreVCDispatchGroup2CSV4fromACs7Decoder_p_tKcfc",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "implicit": true,
+          "throwing": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:24SemaphoreVCDispatchGroup2CSV",
+      "mangledName": "$s24SemaphoreVCDispatchGroup2CSV",
+      "moduleName": "SemaphoreVCDispatchGroup",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Decodable",
+          "printedName": "Decodable",
+          "usr": "s:Se",
+          "mangledName": "$sSe"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "SemaphoreVCDispatchGroup",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "AppDelegate",
+      "printedName": "AppDelegate",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "application",
+          "printedName": "application(_:didFinishLaunchingWithOptions:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIApplication",
+              "printedName": "UIKit.UIApplication",
+              "usr": "c:objc(cs)UIApplication"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "[UIKit.UIApplication.LaunchOptionsKey : Any]?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Dictionary",
+                  "printedName": "[UIKit.UIApplication.LaunchOptionsKey : Any]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "LaunchOptionsKey",
+                      "printedName": "UIKit.UIApplication.LaunchOptionsKey",
+                      "usr": "c:@T@UIApplicationLaunchOptionsKey"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:SD"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)AppDelegate(im)application:didFinishLaunchingWithOptions:",
+          "mangledName": "$s24SemaphoreVCDispatchGroup11AppDelegateC11application_29didFinishLaunchingWithOptionsSbSo13UIApplicationC_SDySo0l6LaunchK3KeyaypGSgtF",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "isOpen": true,
+          "objc_name": "application:didFinishLaunchingWithOptions:",
+          "declAttributes": [
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "application",
+          "printedName": "application(_:configurationForConnecting:options:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UISceneConfiguration",
+              "printedName": "UIKit.UISceneConfiguration",
+              "usr": "c:objc(cs)UISceneConfiguration"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIApplication",
+              "printedName": "UIKit.UIApplication",
+              "usr": "c:objc(cs)UIApplication"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UISceneSession",
+              "printedName": "UIKit.UISceneSession",
+              "usr": "c:objc(cs)UISceneSession"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ConnectionOptions",
+              "printedName": "UIKit.UIScene.ConnectionOptions",
+              "usr": "c:objc(cs)UISceneConnectionOptions"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)AppDelegate(im)application:configurationForConnectingSceneSession:options:",
+          "mangledName": "$s24SemaphoreVCDispatchGroup11AppDelegateC11application_26configurationForConnecting7optionsSo20UISceneConfigurationCSo13UIApplicationC_So0K7SessionCSo0K17ConnectionOptionsCtF",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "isOpen": true,
+          "objc_name": "application:configurationForConnectingSceneSession:options:",
+          "declAttributes": [
+            "ObjC",
+            "Custom",
+            "RawDocComment"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "application",
+          "printedName": "application(_:didDiscardSceneSessions:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIApplication",
+              "printedName": "UIKit.UIApplication",
+              "usr": "c:objc(cs)UIApplication"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Set",
+              "printedName": "Swift.Set<UIKit.UISceneSession>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UISceneSession",
+                  "printedName": "UIKit.UISceneSession",
+                  "usr": "c:objc(cs)UISceneSession"
+                }
+              ],
+              "usr": "s:Sh"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)AppDelegate(im)application:didDiscardSceneSessions:",
+          "mangledName": "$s24SemaphoreVCDispatchGroup11AppDelegateC11application_23didDiscardSceneSessionsySo13UIApplicationC_ShySo14UISceneSessionCGtF",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "isOpen": true,
+          "objc_name": "application:didDiscardSceneSessions:",
+          "declAttributes": [
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "$main",
+          "printedName": "$main()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:24SemaphoreVCDispatchGroup11AppDelegateC5$mainyyFZ",
+          "mangledName": "$s24SemaphoreVCDispatchGroup11AppDelegateC5$mainyyFZ",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "static": true,
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "AppDelegate",
+              "printedName": "SemaphoreVCDispatchGroup.AppDelegate",
+              "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)AppDelegate"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)AppDelegate(im)init",
+          "mangledName": "$s24SemaphoreVCDispatchGroup11AppDelegateCACycfc",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "init",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)AppDelegate",
+      "mangledName": "$s24SemaphoreVCDispatchGroup11AppDelegateC",
+      "moduleName": "SemaphoreVCDispatchGroup",
+      "isOpen": true,
+      "declAttributes": [
+        "Custom",
+        "MainType",
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)UIResponder",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "UIKit.UIResponder",
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "SemaphoreVCDispatchGroup",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "SceneDelegate",
+      "printedName": "SceneDelegate",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "window",
+          "printedName": "window",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "UIKit.UIWindow?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UIWindow",
+                  "printedName": "UIKit.UIWindow",
+                  "usr": "c:objc(cs)UIWindow"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)SceneDelegate(py)window",
+          "mangledName": "$s24SemaphoreVCDispatchGroup13SceneDelegateC6windowSo8UIWindowCSgvp",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "isOpen": true,
+          "objc_name": "window",
+          "declAttributes": [
+            "HasInitialValue",
+            "ObjC",
+            "Custom",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "UIKit.UIWindow?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UIWindow",
+                      "printedName": "UIKit.UIWindow",
+                      "usr": "c:objc(cs)UIWindow"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)SceneDelegate(im)window",
+              "mangledName": "$s24SemaphoreVCDispatchGroup13SceneDelegateC6windowSo8UIWindowCSgvg",
+              "moduleName": "SemaphoreVCDispatchGroup",
+              "implicit": true,
+              "isOpen": true,
+              "objc_name": "window",
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "UIKit.UIWindow?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UIWindow",
+                      "printedName": "UIKit.UIWindow",
+                      "usr": "c:objc(cs)UIWindow"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)SceneDelegate(im)setWindow:",
+              "mangledName": "$s24SemaphoreVCDispatchGroup13SceneDelegateC6windowSo8UIWindowCSgvs",
+              "moduleName": "SemaphoreVCDispatchGroup",
+              "implicit": true,
+              "isOpen": true,
+              "objc_name": "setWindow:",
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:24SemaphoreVCDispatchGroup13SceneDelegateC6windowSo8UIWindowCSgvM",
+              "mangledName": "$s24SemaphoreVCDispatchGroup13SceneDelegateC6windowSo8UIWindowCSgvM",
+              "moduleName": "SemaphoreVCDispatchGroup",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "scene",
+          "printedName": "scene(_:willConnectTo:options:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIScene",
+              "printedName": "UIKit.UIScene",
+              "usr": "c:objc(cs)UIScene"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UISceneSession",
+              "printedName": "UIKit.UISceneSession",
+              "usr": "c:objc(cs)UISceneSession"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ConnectionOptions",
+              "printedName": "UIKit.UIScene.ConnectionOptions",
+              "usr": "c:objc(cs)UISceneConnectionOptions"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)SceneDelegate(im)scene:willConnectToSession:options:",
+          "mangledName": "$s24SemaphoreVCDispatchGroup13SceneDelegateC5scene_13willConnectTo7optionsySo7UISceneC_So0K7SessionCSo0K17ConnectionOptionsCtF",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "isOpen": true,
+          "objc_name": "scene:willConnectToSession:options:",
+          "declAttributes": [
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "sceneDidDisconnect",
+          "printedName": "sceneDidDisconnect(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIScene",
+              "printedName": "UIKit.UIScene",
+              "usr": "c:objc(cs)UIScene"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)SceneDelegate(im)sceneDidDisconnect:",
+          "mangledName": "$s24SemaphoreVCDispatchGroup13SceneDelegateC18sceneDidDisconnectyySo7UISceneCF",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "isOpen": true,
+          "objc_name": "sceneDidDisconnect:",
+          "declAttributes": [
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "sceneDidBecomeActive",
+          "printedName": "sceneDidBecomeActive(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIScene",
+              "printedName": "UIKit.UIScene",
+              "usr": "c:objc(cs)UIScene"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)SceneDelegate(im)sceneDidBecomeActive:",
+          "mangledName": "$s24SemaphoreVCDispatchGroup13SceneDelegateC20sceneDidBecomeActiveyySo7UISceneCF",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "isOpen": true,
+          "objc_name": "sceneDidBecomeActive:",
+          "declAttributes": [
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "sceneWillResignActive",
+          "printedName": "sceneWillResignActive(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIScene",
+              "printedName": "UIKit.UIScene",
+              "usr": "c:objc(cs)UIScene"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)SceneDelegate(im)sceneWillResignActive:",
+          "mangledName": "$s24SemaphoreVCDispatchGroup13SceneDelegateC21sceneWillResignActiveyySo7UISceneCF",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "isOpen": true,
+          "objc_name": "sceneWillResignActive:",
+          "declAttributes": [
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "sceneWillEnterForeground",
+          "printedName": "sceneWillEnterForeground(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIScene",
+              "printedName": "UIKit.UIScene",
+              "usr": "c:objc(cs)UIScene"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)SceneDelegate(im)sceneWillEnterForeground:",
+          "mangledName": "$s24SemaphoreVCDispatchGroup13SceneDelegateC24sceneWillEnterForegroundyySo7UISceneCF",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "isOpen": true,
+          "objc_name": "sceneWillEnterForeground:",
+          "declAttributes": [
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "sceneDidEnterBackground",
+          "printedName": "sceneDidEnterBackground(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIScene",
+              "printedName": "UIKit.UIScene",
+              "usr": "c:objc(cs)UIScene"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)SceneDelegate(im)sceneDidEnterBackground:",
+          "mangledName": "$s24SemaphoreVCDispatchGroup13SceneDelegateC23sceneDidEnterBackgroundyySo7UISceneCF",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "isOpen": true,
+          "objc_name": "sceneDidEnterBackground:",
+          "declAttributes": [
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "SceneDelegate",
+              "printedName": "SemaphoreVCDispatchGroup.SceneDelegate",
+              "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)SceneDelegate"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)SceneDelegate(im)init",
+          "mangledName": "$s24SemaphoreVCDispatchGroup13SceneDelegateCACycfc",
+          "moduleName": "SemaphoreVCDispatchGroup",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "init",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@SemaphoreVCDispatchGroup@objc(cs)SceneDelegate",
+      "mangledName": "$s24SemaphoreVCDispatchGroup13SceneDelegateC",
+      "moduleName": "SemaphoreVCDispatchGroup",
+      "isOpen": true,
+      "declAttributes": [
+        "Custom",
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)UIResponder",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "UIKit.UIResponder",
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        }
+      ]
+    }
+  ],
+  "json_format_version": 6
+}

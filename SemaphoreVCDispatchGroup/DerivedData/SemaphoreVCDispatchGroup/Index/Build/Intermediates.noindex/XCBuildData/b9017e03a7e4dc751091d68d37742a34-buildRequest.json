@@ -1,0 +1,62 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "02baea5cb9cd7599c97ac9209eebffd4980a0a7cab2b170d521cf66af70f327f"
+    }
+  ],
+  "containerPath" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/SemaphoreVCDispatchGroup/SemaphoreVCDispatchGroup.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/SemaphoreVCDispatchGroup/DerivedData/SemaphoreVCDispatchGroup/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/SemaphoreVCDispatchGroup/DerivedData/SemaphoreVCDispatchGroup/Index/Build/Products",
+      "derivedDataPath" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/SemaphoreVCDispatchGroup/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/SemaphoreVCDispatchGroup/DerivedData/SemaphoreVCDispatchGroup/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/SemaphoreVCDispatchGroup/DerivedData/SemaphoreVCDispatchGroup/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/SemaphoreVCDispatchGroup/DerivedData/SemaphoreVCDispatchGroup/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/charvi......./Desktop/Samples/Interview-Preferences/Samples/SemaphoreVCDispatchGroup/DerivedData/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

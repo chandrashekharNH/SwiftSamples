@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+CoordinationPattern in CoordinationPattern, no dependencies
+CoordinationPattern in CoordinationPattern, no dependencies

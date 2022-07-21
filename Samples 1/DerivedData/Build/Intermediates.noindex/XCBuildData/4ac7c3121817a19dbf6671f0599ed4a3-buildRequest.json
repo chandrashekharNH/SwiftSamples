@@ -1,0 +1,102 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "PLAYGROUND-PRODUCT:MyPlayground_Sources-PLAYGROUND-TARGET:/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/MyPlayground.playground",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "x86_64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "x86_64"
+          ],
+          "targetArchitecture" : "x86_64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/DerivedData/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/DerivedData/Build/Products",
+          "derivedDataPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/DerivedData/MyPlayground/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/DerivedData/MyPlayground/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.4",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/DerivedData/Build/Intermediates.noindex/Playgrounds/MyPlayground/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/DerivedData/Build/Intermediates.noindex/Playgrounds/MyPlayground/Intermediates.noindex",
+              "SYMROOT" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/DerivedData/Build/Intermediates.noindex/Playgrounds/MyPlayground/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "35E3FBBF-0A21-485F-8FDE-B7A0DA792D33",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/MyPlayground.playground",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/DerivedData/MyPlayground/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/DerivedData/MyPlayground/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/charvi......./Desktop/Interview-Preferences/Samples/Samples 1/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.4",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "35E3FBBF-0A21-485F-8FDE-B7A0DA792D33",
+          "TARGET_DEVICE_MODEL" : "iPad6,4",
+          "TARGET_DEVICE_OS_VERSION" : "15.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

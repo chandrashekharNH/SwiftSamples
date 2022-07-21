@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3AE15506-8426-42CF-92B1-AF07293B1041</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3AE15506-8426-42CF-92B1-AF07293B1041.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SelectionSort</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SelectionSort (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build SelectionSort (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>679922583.24038994</real>
+			<key>timeStoppedRecording</key>
+			<real>679922583.37604105</real>
+			<key>title</key>
+			<string>Build SelectionSort (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>3AE15506-8426-42CF-92B1-AF07293B1041</string>
+		</dict>
+		<key>B728E02F-D8B3-4BF1-A537-08A29F643FE5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B728E02F-D8B3-4BF1-A537-08A29F643FE5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SelectionSort</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SelectionSort (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build SelectionSort (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>679836312.64935195</real>
+			<key>timeStoppedRecording</key>
+			<real>679836312.83299303</real>
+			<key>title</key>
+			<string>Build SelectionSort (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>B728E02F-D8B3-4BF1-A537-08A29F643FE5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
